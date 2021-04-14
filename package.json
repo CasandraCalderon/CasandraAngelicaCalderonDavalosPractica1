@@ -1,0 +1,16 @@
+{
+  "name": "casandraangelicacalderondavalospractica1",
+  "version": "1.0.0",
+  "description": "practica N°1\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[\u001b[CPA\u001b[C\u001b[C\u001b[C\u001b[CPractica N°1",
+  "main": "problema.js",
+  "scripts": {
+    "build": "tsc && node"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "javascript"
+  ],
+  "author": "casandra",
+  "license": "MIT"
+}
